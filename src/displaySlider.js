@@ -12,7 +12,7 @@ Ext.onReady(function () {
      * @param {Object} suffixConfig - used to configure the suffix properties {text: '', flex: .2}
      *
      * Example Sencha fiddle available at:
-     * https://fiddle.sencha.com/#fiddle/2daf
+     * https://fiddle.sencha.com/#fiddle/2o24
      * */
 
     Ext.define('Ext.ux.slider.Display', {
